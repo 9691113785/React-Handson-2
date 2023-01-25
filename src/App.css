@@ -52,7 +52,7 @@ input{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: 20px 50px;
+    margin: 100px 50px;
 }
 span{
     background-color: yellow;
@@ -61,3 +61,5 @@ span{
     border-radius: 10px;
     margin: 20px;
 }
+
+
